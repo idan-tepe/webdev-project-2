@@ -1,0 +1,41 @@
+.bg{
+    background-image:linear-gradient(peachpuff, cornsilk);
+}
+
+h1{
+    font-family:Arial;
+}
+
+h2{
+    font-family:Arial;
+}
+
+table,th,td{
+    border: 0.5px solid black;
+     border-collapse: collapse
+}
+
+.schoolbg{
+    background-color: #C4C4C4;
+}
+
+.title_sch{
+    background-color: #F1F7C1;
+}
+
+.elem{
+    background-color: #EAECDB;
+}
+
+.mid{
+    background-color: #CED1AE;
+}
+
+.high{
+    background-color: #B1B687;
+}
+
+.lastl{
+    background-color: #89904C;
+}
+
